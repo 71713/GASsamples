@@ -1,0 +1,2 @@
+# GASsamples
+GoogleAppsScript試してみたものたち
